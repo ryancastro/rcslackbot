@@ -1275,7 +1275,7 @@ packages:
     resolution:
       integrity: sha1-eC7CHvQDNF+DCoCMo9UTr1YGUgg=
 registry: 'https://registry.npmjs.org/'
-shrinkwrapMinorVersion: 6
+shrinkwrapMinorVersion: 7
 shrinkwrapVersion: 3
 specifiers:
   '@slack/client': ^3.9.0
